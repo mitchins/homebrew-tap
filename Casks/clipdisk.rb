@@ -1,6 +1,6 @@
 cask "clipdisk" do
-  version "1.1.3"
-  sha256 "6f6da62ef304befccb81e3cb5cdd962ba9f90375f319138705809d476aea4abc"
+  version "1.1.4"
+  sha256 "c2563b15e4f48bb6f5b0259fe7c4ac039e2cc2302e88713bc03e3ba95536318b"
 
   url "https://github.com/mitchins/clipdisk/releases/download/v#{version}/ClipDisk-#{version}.dmg"
   name "Clipdisk"
