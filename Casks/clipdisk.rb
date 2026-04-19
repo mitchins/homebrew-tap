@@ -1,6 +1,6 @@
 cask "clipdisk" do
-  version "1.0.3"
-  sha256 "f4b5318eec0c9c27df1fde5a8e821ad0e70ef0d17ae23e5c392443d5de57649a"
+  version "1.0.4"
+  sha256 "8729ed168f3c58808cfa65ff3d41513867503f0c6c035e28ad03cab3993feab4"
 
   url "https://github.com/mitchins/clipdisk/releases/download/v#{version}/ClipboardFolder-#{version}.dmg"
   name "Clipdisk"
